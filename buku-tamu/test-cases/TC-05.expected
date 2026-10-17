@@ -1,0 +1,99 @@
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[!] Pilihan tidak dimengerti.
+
+Daftar Tamu:
+- Data tamu belum tersedia!
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : Berhasil mendaftarkan tamu: [1] A | Tujuan: T1
+
+Daftar Tamu:
+[1] A | Tujuan: T1
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[!] Pilihan tidak dimengerti.
+
+Daftar Tamu:
+[1] A | Tujuan: T1
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : Berhasil mendaftarkan tamu: [2] B | Tujuan: T2
+
+Daftar Tamu:
+[1] A | Tujuan: T1
+[2] B | Tujuan: T2
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mencari Tamu]
+Nama (x Jika Batal) : Hasil Pencarian: "Z"
+- Tamu tidak ditemukan!
+
+Daftar Tamu:
+[1] A | Tujuan: T1
+[2] B | Tujuan: T2
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Menghapus Tamu]
+[ID Tamu] yang dihapus (x Jika Batal) : [!] ID tidak valid!
+
+Daftar Tamu:
+[1] A | Tujuan: T1
+[2] B | Tujuan: T2
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Menghapus Tamu]
+[ID Tamu] yang dihapus (x Jika Batal) : Berhasil menghapus tamu.
+
+Daftar Tamu:
+[2] B | Tujuan: T2
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
+[Mendaftarkan Tamu]
+Nama (x Jika Batal) : Tujuan Kunjungan (x Jika Batal) : Berhasil mendaftarkan tamu: [3] C | Tujuan: T3
+
+Daftar Tamu:
+[2] B | Tujuan: T2
+[3] C | Tujuan: T3
+Menu:
+1. Daftarkan
+2. Cari
+3. Hapus
+x. Keluar
+Pilih : 
